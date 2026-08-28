@@ -12,7 +12,7 @@ As capas usam o par visualmente coerente entre `assets/hero-mobile.png` e `asset
 
 ## Site responsivo
 
-A página é uma landing page estática, responsiva e mobile-first. A capa troca automaticamente a imagem conforme a largura da tela, usando a composição vertical no celular e a composição horizontal no computador. A navegação conduz às seções de atuação, serviços, experiência e contato. A direção visual usa azul-marinho, branco, preto e bege, com uma capa limpa e um único botão de contato. A logo transparente em PNG está em [`assets/logo-edimar-marcos-optimized.png`](./assets/logo-edimar-marcos-optimized.png) e é usada no cabeçalho e no rodapé.
+A página é uma landing page estática, responsiva e mobile-first. A capa troca automaticamente a imagem conforme a largura da tela, usando a composição vertical no celular e a composição horizontal no computador. A navegação conduz às seções de atuação, serviços, experiência e contato. A direção visual usa bege claro como base, azul-marinho escuro nos textos e detalhes mínimos em branco. O logotipo isolado, sem caixa ou fundo, está em [`assets/logo-edimar-marcos-navy.png`](./assets/logo-edimar-marcos-navy.png) e é usado no cabeçalho e no rodapé.
 
 As fotografias são entregues em WebP otimizado, com dimensões adequadas para desktop e mobile, carregamento prioritário somente para a imagem principal e carregamento tardio nas imagens internas.
 
