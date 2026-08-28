@@ -12,7 +12,7 @@ As capas usam o par visualmente coerente entre `assets/hero-mobile.png` e `asset
 
 ## Site responsivo
 
-A página é uma landing page estática, responsiva e mobile-first. A capa troca automaticamente a imagem conforme a largura da tela, usando a composição vertical no celular e a composição horizontal no computador. A navegação conduz às seções de atuação, serviços, experiência e contato.
+A página é uma landing page estática, responsiva e mobile-first. A capa troca automaticamente a imagem conforme a largura da tela, usando a composição vertical no celular e a composição horizontal no computador. A navegação conduz às seções de atuação, serviços, experiência e contato. A logo transparente em PNG está em [`assets/logo-edimar-marcos.png`](./assets/logo-edimar-marcos.png) e é usada no cabeçalho e no rodapé.
 
 ## Seções previstas
 
