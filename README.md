@@ -4,9 +4,15 @@ Conteúdo-base para o site institucional de Edimar Marcos Advocacia, com foco em
 
 ## Conteúdo publicado
 
-O arquivo [`Pasted_content.txt`](./Pasted_content.txt) reproduz integralmente o material textual fornecido para publicação.
+O arquivo [`Pasted_content.txt`](./Pasted_content.txt) reproduz integralmente o material textual fornecido para publicação. A página institucional está disponível em [`index.html`](./index.html), com estilos em [`styles.css`](./styles.css).
+
+As capas usam o par visualmente coerente entre `assets/hero-mobile.png` e `assets/hero-desktop.png`: o mesmo escritório e o mesmo traje em enquadramentos adaptados para celular e computador. As outras duas imagens selecionadas aparecem nas seções de experiência e encerramento. As demais fotos geradas não foram incluídas para manter a narrativa visual consistente.
 
 > Observação: o arquivo recebido contém texto e estrutura de conteúdo, mas não contém código-fonte HTML, CSS ou JavaScript. Por isso, este repositório publica o conteúdo exatamente como foi enviado, sem inventar ou alterar uma implementação que não estava no anexo.
+
+## Site responsivo
+
+A página é uma landing page estática, responsiva e mobile-first. A capa troca automaticamente a imagem conforme a largura da tela, usando a composição vertical no celular e a composição horizontal no computador. A navegação conduz às seções de atuação, serviços, experiência e contato.
 
 ## Seções previstas
 
